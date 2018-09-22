@@ -1,0 +1,11 @@
+#operation of integers
+x=int(input("enter a number:"))
+y=int(input("enter another number:"))
+z=int(input("enter third number:"))
+print(x,"+",y,"+",z,"=",x+y+z)
+print(x,"-",y,"-",z,"=",x-y-z)
+print(x,"*",y,"*",z,"=",x*y*z)
+print(x,"/",y,"/",z,"=",x/y/z)
+print(x,"%",y,"=",x%y)
+print(x,"//",y,"=",x//y)
+print(x,"**",y,"=",x**y)
