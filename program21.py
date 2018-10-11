@@ -23,7 +23,7 @@ while True:
 		else:
 			if(player1):
 				print("PLAYER 1>>")
-				a[int(s)-1]=='X'
+				a[int(s)-1]='X'
 				player1=not player1
 			else:
 				print("PLAYER 2>>")
